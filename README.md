@@ -1,10 +1,10 @@
 # MyAudioApp
 
 ## Overview
-Developed for Computer Science II CPS209 this is a Audio Content Management Simulator, meant to demonstrate understanding of OOP. By defining Songs, AudioBooks, and Podcasts as their own objects. It makes uses of a simulated Library and Store as well. 
+Developed for Computer Science II CPS209 this is a Audio Content Management Simulator, meant to demonstrate understanding of OOP. By defining Songs and AudioBooks as their own objects. It makes uses of a simulated Library and Store as well. 
 
-##Features 
-- **Content Management**: Organize and manage audio content such as songs, audiobooks, and podcasts.
+## Features 
+- **Content Management**: Organize and manage audio content such as songs and audiobooks.
 - **Simulated Store Interaction**: Download audio content from a simulated store.
 - **Playback Simulation**: Simulate the playback of audio content by displaying it's lyrics
 - **Playlist Creation**: Create playlists using the library content. Playlists can contain mixed types of audio content.
@@ -12,7 +12,7 @@ Developed for Computer Science II CPS209 this is a Audio Content Management Simu
 - **File I/O**: Initialize the content store from a structured text file, allowing for dynamic content changes.
 - **Error Handling**: Robust exception management ensuring a smooth user experience.
 
-##Commands 
+## Commands 
 - **STORE**: View contents of the simulated store.
 - **DOWNLOAD**: Download specific or a range of audio contents from the store.
 - **DOWNLOADA**: Download all content associated with a specific artist or author.
